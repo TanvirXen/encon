@@ -85,7 +85,7 @@ header {
 }
 
 .hero-area{
-  background: url(../../public/imgs/hero-bg.png);
+  background: url(/imgs/hero-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
